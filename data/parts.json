@@ -1,0 +1,35 @@
+{
+ "parts": {
+  "20-statutes-01.json": {
+   "acts": [
+    "charter-no-2-of-2011",
+    "pre-school-charter-no-5-of-2011",
+    "precept-no-09-of-2011",
+    "precept-of-social-services-no-08-of-2010",
+    "provincial-councils-payment-of-salaries-and-allowances-amended-statute-no-09-of",
+    "uva-governor-s-fund-amendment-statute-no-01-of-2010",
+    "uva-provincial-co-operative-employees-commission-statute-no-4-of-2010",
+    "uva-provincial-council-public-service-commission-payments-of-salaries-and-allowa",
+    "uva-provincial-governor-s-fund-amendment-statute-bearing-no-1-of-2014",
+    "uva-provincial-rent-amended-statute-no-2-of-2013"
+   ],
+   "sha256": "ae3f39721f654966e14231c29230ed0f4e832b99ab36c62e82d028c33445004e"
+  },
+  "20-statutes-02.json": {
+   "acts": [
+    "a-statute-for-uva-provincial-library-services-boar-no-05-of-2000",
+    "chief-minister-s-fund-statute-no-02-of-1993",
+    "emergency-fund-statute-no-01-of-1989",
+    "passenger-transport-services-authority-staute-no-01-of-the-year-2001",
+    "sports-precept-no-07-of-2010",
+    "statute-of-uva-navodaya-fund-2016",
+    "uva-provincial-council-co-operative-employees-commission-statute-no-1-of-2016",
+    "uva-provincial-council-payment-of-salaries-and-allowances-statute-no-02-of-1990",
+    "uva-provincial-rent-statute-no-5-of-2010",
+    "uva-provincial-road-statute-no-02-of-2010"
+   ],
+   "sha256": "f143103d7895ee3312ae0b4f6dfeff26018cadda356d519fa7f6fbcc64a2735d"
+  }
+ },
+ "schema": 1
+}
