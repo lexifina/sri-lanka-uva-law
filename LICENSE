@@ -1,0 +1,19 @@
+Law texts
+
+The texts in this repository are statutes of the Uva Provincial Council (Sri Lanka) as published, in English, in the Gazette of
+the Democratic Socialist Republic of Sri Lanka (Extraordinary), Part IV (A), Provincial Councils, by the Department of
+Government Printing, and posted on the Council's website (https://www.up.gov.lk).
+
+- Copyright: the Intellectual Property Act, No. 36 of 2003, section 8, does not extend copyright protection to any
+  official text of a legislative, administrative or legal nature, or to any official translation of such a text.
+  Statutes of a Provincial Council are official texts of a legislative nature (Constitution, Article 154G).
+- The Council's website carries "Copyright (c) 2017 Uva Provincial Council. All Rights Reserved." and no terms that restrict reuse of the statutes it posts.
+- The texts are reproduced without change to their wording; only the arrangement (one file per section or per
+  statute, one paragraph per line) is Lexifina's. Neither the Council nor the Department of Government Printing
+  endorses this repository.
+
+Attribution: Source: Uva Provincial Council, https://www.up.gov.lk; Gazette of the Democratic Socialist Republic of Sri Lanka (Extraordinary),
+Part IV (A).
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
