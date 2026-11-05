@@ -20,7 +20,7 @@ Statutes are enacted in Sinhala and Tamil as well; this repository holds the Eng
 
 ## Dates
 
-Each statute is dated by the day of the Gazette Extraordinary that published it, at noon in Colombo. A statute's own section 1 says when it comes into operation (usually on the Governor's assent); that day is not derived here.
+The original 20 records use Gazette publication dates; their commencement dates have not been reviewed here. The seven additional records use the commencement stated in the source and its recorded Governor approval date, or the express commencement date in the retirement amendment. Dates are at noon in Colombo.
 
 ## How it is built
 

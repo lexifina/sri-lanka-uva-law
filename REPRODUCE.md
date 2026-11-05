@@ -66,7 +66,7 @@ When a law gives no date of its own, the default rule applies: Each statute is d
 
 ## Checks
 
-20 versions of 20 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
