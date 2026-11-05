@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | --- | --- | --- | --- |
 | Uva Provincial Council: statutes page, English text of each statute as published in the Gazette Extraordinary (PDF with a text layer) | <https://www.up.gov.lk/publications/statutes/> | 2026-10-31 | Statutes of the Uva Provincial Council as published in the Gazette of the Democratic Socialist Republic of Sri Lanka (Extraordinary), Part IV (A), and posted on https://www.up.gov.lk. Intellectual Property Act, No. 36 of 2003 (Sri Lanka), section 8: copyright protection does not extend to any official text of a legislative, administrative or legal nature, or to any official translation of such a text. |
 | Uva Provincial Council: statutes page, English text of each statute as published in the Gazette Extraordinary (PDF with a text layer) | <https://www.up.gov.lk/publications/statutes/> | 2026-10-31 | Statutes of the Uva Provincial Council as published in the Gazette of the Democratic Socialist Republic of Sri Lanka (Extraordinary), Part IV (A), and posted on https://www.up.gov.lk. Intellectual Property Act, No. 36 of 2003 (Sri Lanka), section 8: copyright protection does not extend to any official text of a legislative, administrative or legal nature, or to any official translation of such a text. |
+| Uva Provincial Council: official statutes listing and Gazette Extraordinary English texts | <https://www.up.gov.lk/publications/statutes/> | 2026-11-05 | Intellectual Property Act, No. 36 of 2003 (Sri Lanka), section 8: copyright protection does not extend to any official text of a legislative, administrative or legal nature, or to any official translation of such a text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -35,12 +36,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `uva-provincial-council-payment-of-salaries-and-allowances-statute-no-02-of-1990` | Uva Provincial Council (Payment of Salaries and Allowances) Statute No. 02 of 1990 | 1 | 2012-07-19 to 2012-07-19 |
 | `uva-provincial-council-co-operative-employees-commission-statute-no-1-of-2016` | Uva Provincial Council Co-operative Employees Commission Statute No. 1 of 2016 (amended) | 1 | 2016-07-21 to 2016-07-21 |
 | `statute-of-uva-navodaya-fund-2016` | The Statute of Uva Navodaya Fund 2016 | 1 | 2016-11-09 to 2016-11-09 |
+| `uva-provincial-housing-development-statute-no-6-of-2010` | Uva Provincial Housing Development Statute No. 6 of 2010 | 1 | 2010-12-24 to 2010-12-24 |
+| `rural-development-charter-no-1-of-the-year-2011` | Rural Development Charter No. 1 of the year 2011 | 1 | 2011-03-01 to 2011-03-01 |
+| `educational-charter-no-4-of-the-year-2011` | Educational Charter No. 4 of the Year 2011 | 1 | 2011-04-11 to 2011-04-11 |
+| `co-operative-societies-statute-no-3-of-2011` | Co-operative Societies Statute No. 3 of 2011 | 1 | 2011-04-28 to 2011-04-28 |
+| `indigenous-medicine-services-statute-bearing-no-6-of-2011` | Indigenous Medicine Services Statute bearing No. 6 of 2011 | 1 | 2011-05-10 to 2011-05-10 |
+| `uva-provincial-construction-and-engineering-consultation-bureau-statutes-no-11-o` | Uva provincial construction and Engineering Consultation Bureau Statutes No. 11 of the year 2011 | 1 | 2012-06-18 to 2012-06-18 |
+| `co-operative-employees-commission-regulations-section-34-retirement-amendment-20` | Co-operative Employees Commission Regulations: section 34 retirement amendment (2016) | 1 | 2016-06-01 to 2016-06-01 |
 
-The build made 20 commits:
+The build made 27 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 20 | first version of an act |
+| 27 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -48,7 +56,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 20 tags.
+- 27 tags.
 
 ## Dates
 
@@ -60,15 +68,15 @@ When a law gives no date of its own, the default rule applies: Each statute is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b8441e890b8e86d6d84472fbe44b1bb73d50a16916574532e8c540d8bf22d117` (268592 bytes).
+- Corpus: sha256 `5b44b2fc52c7257e73ca45fb6681798e23c3236b559991c4caebe5baada371fe` (546274 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-Not yet run for this build.
+27 versions of 27 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 27 history commits and 27 tags (history tip `2f3608ec0ae682db30d4b8263fdf00357d33eac9`).
 
 ## Decisions made by hand
 
@@ -78,6 +86,12 @@ No second build of this corpus has been compared yet.
 - Left out: the Gazette masthead, running heads and the Sinhala/Tamil lines in legacy fonts, page labels, printing footers, the Council Secretary's publication notice, and marginal notes where sections are not split.
 - A statute is left out when a second reading of its PDF (pdftotext) does not find every paragraph of the record whole, or finds text in the statute's stretch that the record lacks (tables, forms, layout the parser misreads).
 - 20-statutes-02: statutes an earlier parser could not read (marginal notes set beside short body lines, section numbers printed apart from their text, several statutes in one Gazette issue). The second reader (pdftotext) checks each statute in its content-stream order and, where that order interleaves statutes or marginal notes on a shared page, in its physical reading order; every check is complete in the order that passes (each paragraph whole, nothing else in the statute's stretch but page furniture). The note on each version names the order used.
+- Seven additional instruments, each one current source version with first_law null. These texts are as published; no later amendment to these seven instruments is identified in the Council listing. This is not a claim that the listing supplies a comprehensive consolidation service.
+- Each added instrument is dated by its own commencement clause and the approval date recorded in its official publication notice; the section 34 regulation amendment expressly commences on 1 June 2016. Publication dates and approval dates are distinct.
+- Each additional statute is a single-file act, retaining the heading, long title, enacting formula, all operative English provisions and textual schedules. Marginal captions, Gazette furniture and Council publication notices are excluded from the statute text; the regulation amendment retains its ministerial notification and signature.
+- Governor Fund consolidation, the Child Development date conflict and four entries with no download link remain outside this addition. The Ayurveda English-labelled link supplies Tamil; its English text is supplied by the Council at the corresponding English Gazette URL.
+- Source-completeness correction to three unpublished additions: Housing restores five short body continuation lines and ends before the next Council notification; the retirement amendment restores its Gazette reference and express commencement line; Construction restores its body PART IV heading. All restored text is extracted verbatim from the official PDF text layer, with whitespace and paragraph assembly only.
+- Scope of inherited dating decisions: the earlier statement that each statute is dated by Gazette publication describes only the original 20 records from 20-statutes-01.json and 20-statutes-02.json. Those dates have not been reviewed here. The seven records from 30-q166-breadth.json, including these replacements, instead use their source commencement and recorded approval dates, or express commencement date. No date is changed by this correction.
 
 ## What AI did and did not do
 
@@ -89,3 +103,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Gazette PDFs on the Council's website.
+- GPT-6 wrote extraction and validation code. No generated or corrected legal text, no OCR, and no inferred source dates.
+- GPT-6 corrected extraction filters and statute boundaries; no generated law text and no OCR.

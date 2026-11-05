@@ -280,6 +280,104 @@
      "sha256": "c50ed40ab5c723b8ef8e0de67fbeb4730f965c01f0f42da7ed98ef8aa190a0a5"
     }
    ]
+  },
+  {
+   "slug": "uva-provincial-housing-development-statute-no-6-of-2010",
+   "short": "Uva Provincial Housing Development Statute No. 6 of 2010",
+   "title": "Uva Provincial Housing Development Statute No. 6 of 2010",
+   "url": "https://www.up.gov.lk/images/2017/01/1689_14E.pdf",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1689_14E.pdf",
+     "sha256": "6193c23c767c347b7d84b851918700df8b4f8bc82a041d9aaf52e531b4185f91"
+    }
+   ]
+  },
+  {
+   "slug": "rural-development-charter-no-1-of-the-year-2011",
+   "short": "Rural Development Charter No. 1 of the year 2011",
+   "title": "Rural Development Charter No. 1 of the year 2011",
+   "url": "https://www.up.gov.lk/images/2017/01/1706_10-E.pdf",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1706_10-E.pdf",
+     "sha256": "2abcfb201cc2af422dcf950f5a31285ed833176f874f8312a0c6c434cb8db4d1"
+    }
+   ]
+  },
+  {
+   "slug": "educational-charter-no-4-of-the-year-2011",
+   "short": "Educational Charter No. 4 of the Year 2011",
+   "title": "Educational Charter No. 4 of the Year 2011",
+   "url": "https://www.up.gov.lk/images/2017/01/1706_10-E.pdf",
+   "versions": [
+    {
+     "from": "2011-04-11",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1706_10-E.pdf",
+     "sha256": "2abcfb201cc2af422dcf950f5a31285ed833176f874f8312a0c6c434cb8db4d1"
+    }
+   ]
+  },
+  {
+   "slug": "co-operative-societies-statute-no-3-of-2011",
+   "short": "Co-operative Societies Statute No. 3 of 2011",
+   "title": "Co-operative Societies Statute No. 3 of 2011",
+   "url": "https://www.up.gov.lk/images/2017/01/1707_04-E.pdf",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1707_04-E.pdf",
+     "sha256": "62e733eae890502c07c7df5910ae866b5fb6c77f9db4114aad6f6b9f672a16da"
+    }
+   ]
+  },
+  {
+   "slug": "indigenous-medicine-services-statute-bearing-no-6-of-2011",
+   "short": "Indigenous Medicine Services Statute bearing No. 6 of 2011",
+   "title": "Indigenous Medicine Services Statute bearing No. 6 of 2011",
+   "url": "https://www.up.gov.lk/images/2017/01/1709_04-E.pdf",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1709_04-E.pdf",
+     "sha256": "15ffda3dbc6311c5c259b38deaab452c56b9543039e94746c19a95267639e5c3"
+    }
+   ]
+  },
+  {
+   "slug": "uva-provincial-construction-and-engineering-consultation-bureau-statutes-no-11-o",
+   "short": "Uva provincial construction and Engineering Consultation Bureau Statutes No. 11 of the year 2011",
+   "title": "Uva provincial construction and Engineering Consultation Bureau Statutes No. 11 of the year 2011",
+   "url": "https://www.up.gov.lk/images/2017/01/1767_27-E.pdf",
+   "versions": [
+    {
+     "from": "2012-06-18",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1767_27-E.pdf",
+     "sha256": "94323b2795d2721ed3acbf0c1c7f43f48c579bac7c5474f8918664e65d6e152d"
+    }
+   ]
+  },
+  {
+   "slug": "co-operative-employees-commission-regulations-section-34-retirement-amendment-20",
+   "short": "Co-operative Employees Commission Regulations: section 34 retirement amendment (2016)",
+   "title": "Co-operative Employees Commission Regulations: section 34 retirement amendment (2016)",
+   "url": "https://www.up.gov.lk/images/2017/01/1972-50_E.pdf",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 1,
+     "source_url": "https://www.up.gov.lk/images/2017/01/1972-50_E.pdf",
+     "sha256": "167ae82f0d9ffd041244f00002c07034580a9eb45a76e38da4c6b96bc419c5e3"
+    }
+   ]
   }
  ]
 }
